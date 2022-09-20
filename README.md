@@ -6,7 +6,7 @@ compiling py file to bytecode using python.com:
 
 ## sours (experimental cross-platform thing)
 
-just make sure these files exist in the same directory (available in `cosmopolitan_lib/`)
+just make sure these files exist in the same directory (available in `cosmopolitan_lib/`, cosmopolitan.a needs to be gunzip'd)
 
 `cosmopolitan.h crt.o ape-no-modify-self.o cosmopolitan.a`
 
